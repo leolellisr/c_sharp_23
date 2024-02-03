@@ -1,0 +1,15 @@
+/home/ic-unicamp/leolellisr/PED/Csharp/Aula1/Teste/DIR/bin/Debug/net6.0/DIR
+/home/ic-unicamp/leolellisr/PED/Csharp/Aula1/Teste/DIR/bin/Debug/net6.0/DIR.deps.json
+/home/ic-unicamp/leolellisr/PED/Csharp/Aula1/Teste/DIR/bin/Debug/net6.0/DIR.runtimeconfig.json
+/home/ic-unicamp/leolellisr/PED/Csharp/Aula1/Teste/DIR/bin/Debug/net6.0/DIR.dll
+/home/ic-unicamp/leolellisr/PED/Csharp/Aula1/Teste/DIR/bin/Debug/net6.0/ref/DIR.dll
+/home/ic-unicamp/leolellisr/PED/Csharp/Aula1/Teste/DIR/bin/Debug/net6.0/DIR.pdb
+/home/ic-unicamp/leolellisr/PED/Csharp/Aula1/Teste/DIR/obj/Debug/net6.0/DIR.csproj.AssemblyReference.cache
+/home/ic-unicamp/leolellisr/PED/Csharp/Aula1/Teste/DIR/obj/Debug/net6.0/DIR.GeneratedMSBuildEditorConfig.editorconfig
+/home/ic-unicamp/leolellisr/PED/Csharp/Aula1/Teste/DIR/obj/Debug/net6.0/DIR.AssemblyInfoInputs.cache
+/home/ic-unicamp/leolellisr/PED/Csharp/Aula1/Teste/DIR/obj/Debug/net6.0/DIR.AssemblyInfo.cs
+/home/ic-unicamp/leolellisr/PED/Csharp/Aula1/Teste/DIR/obj/Debug/net6.0/DIR.csproj.CoreCompileInputs.cache
+/home/ic-unicamp/leolellisr/PED/Csharp/Aula1/Teste/DIR/obj/Debug/net6.0/DIR.dll
+/home/ic-unicamp/leolellisr/PED/Csharp/Aula1/Teste/DIR/obj/Debug/net6.0/ref/DIR.dll
+/home/ic-unicamp/leolellisr/PED/Csharp/Aula1/Teste/DIR/obj/Debug/net6.0/DIR.pdb
+/home/ic-unicamp/leolellisr/PED/Csharp/Aula1/Teste/DIR/obj/Debug/net6.0/DIR.genruntimeconfig.cache
